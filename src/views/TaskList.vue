@@ -14,7 +14,7 @@
           icon="mdi-account-outline"
         >
           <template #title>
-            Edit Profile — <small class="text-body-1">Task List</small>
+            Edit Profile — <small class="text-body-1">Task List!</small>
           </template>
 
           <v-form>
