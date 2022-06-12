@@ -23,6 +23,8 @@ const router = new Router({
       route('Dashboard'),
 
       // Pages
+      route('TaskList', null, 'components/task'),
+
       route('UserProfile', null, 'components/profile'),
 
       // Components

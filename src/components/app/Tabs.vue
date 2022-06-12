@@ -15,9 +15,7 @@
 <script>
   export default {
     name: 'AppTabs',
-
     inject: ['theme'],
-
     props: {
       color: {
         type: String,
